@@ -1,4 +1,4 @@
-# hello-world
+# Jingwei
 Github Flow Practise
 Hi, i am Jingwei. Currently studying Material Science and Engineering in NTU,
 Year 3(2024).
